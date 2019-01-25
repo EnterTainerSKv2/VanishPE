@@ -1,0 +1,13 @@
+name: Vanish
+main: EnterTainerSK\Main
+version: 1.0
+author: EnterTainerSK
+api: 3.0.0
+commands:
+  vanish:
+    description: "Vanish"
+    aliases: [v]
+permissions:
+  vanish.spectate:
+    description: "Vanish use perm"
+    default: op
